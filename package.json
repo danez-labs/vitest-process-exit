@@ -1,0 +1,18 @@
+{
+  "name": "vitest-default-import",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Repro",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "4.3.5",
+    "vitest": "0.31.0"
+  },
+  "dependencies": {
+    "execa": "7.1.1"
+  }
+}
